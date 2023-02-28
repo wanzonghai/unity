@@ -1,0 +1,20 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:258fa44ee66fd2db9a69b68ae9ec3e26:cf7dc931233f548b084af6185a0a3574:0eab46653074cfd28c3b7e08149c9cac$
+#
+:format=40300
+:texture=mainScene20029.png
+:size=512x256
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+bg_2_30;410;203;43;52; 0.5;0.5; 0;0;0;0; 5;43;0;3;0;0;3;0;52;43;52; 3;2;3;4;0;2;4;0;1;2
+btn_AnNiu_1;1;14;284;107; 0.5;0.5; 0;0;0;0; 6;284;0;0;0;0;41;9;103;26;107;284;107; 4;0;4;5;2;3;4;0;2;4;0;1;2
+btn_AnNiu_2;135;154;273;101; 0.5;0.5346534653465347; 0;0;0;0; 6;273;17;244;0;0;0;0;64;16;101;273;101; 4;1;4;5;3;1;2;3;4;1;0;1;5
+png_bg_3_50;287;65;107;87; 0.5;0.5; 0;0;0;0; 5;107;59;107;0;0;0;0;87;93;87; 3;0;3;4;0;1;2;0;2;3
+png_TouXiang1;1;123;132;132; 0.5;0.5; 0;0;0;0; 8;132;84;132;42;104;0;39;0;0;30;0;96;31;132;114;132; 6;0;6;7;5;6;0;3;4;5;0;1;3;1;2;3;5;0;3

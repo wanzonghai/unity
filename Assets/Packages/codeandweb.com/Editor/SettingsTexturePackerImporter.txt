@@ -1,0 +1,14 @@
+version: 2
+tpsheetFileNames:
+- Assets/Packages/codeandweb.com/Example/SpriteSheet/sprites.tpsheet
+- Assets/Resources/Texture/mainScene20029.tpsheet
+- Assets/Resources/Texture/poker20029.tpsheet
+textureFileNames:
+- Assets/Packages/codeandweb.com/Example/SpriteSheet/sprites.png
+- Assets/Resources/Texture/mainScene20029.png
+- Assets/Resources/Texture/poker20029.png
+normalmapFileNames:
+- Assets/Packages/codeandweb.com/Example/SpriteSheet/sprites_n.png
+- 
+- 
+enableDebugOutput: 0
