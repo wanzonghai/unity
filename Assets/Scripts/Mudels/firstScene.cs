@@ -205,6 +205,7 @@ public class firstScene : MonoBehaviour
                 Mathf.SmoothStep(start.y, end.y, x),
                 Mathf.SmoothStep(start.z, end.z, x));
             yield return null;
+
         }
     }
     private void MoveToStart(Transform item, Vector3 start)
@@ -259,7 +260,7 @@ public class firstScene : MonoBehaviour
     {
         this.timer_game.Unschedule(this.TimerID_game);
         this.gameTimer = this.gamedata.gameTimer;
-
+        btn_start.gameObject.SetActive(true);
         this.UpdateView();
     }
 
